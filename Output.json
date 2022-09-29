@@ -1,0 +1,11 @@
+{
+  "in_Feedback": "Hi, I need new 12 GB RAM as my current 12 GB RAM is not working.",
+  "Suggested_Team": "Software",
+  "Team": "Hardware",
+  "submit": true,
+  "Team_dropdown": [
+    "Hardware",
+    "Software",
+    "Network"
+  ]
+}
